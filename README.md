@@ -1,3 +1,5 @@
+𝗠𝗼𝗯𝗶𝗹𝗲 𝗔𝗽𝗽 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗥𝗲𝗮𝗰𝘁 𝗡𝗮𝘁𝗶𝘃𝗲 & 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀 | 𝗘𝘅𝗽𝗼 | 𝗖𝗟𝗜 | 𝗶𝗢𝗦 & 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 | 𝗪𝗲𝗯
+
 # 💫 About Me:
 Mobile & Frontend Developer with 5+ years of experience building scalable cross-platform applications using React Native and React.js. Currently working as a Mobile Team Lead, leading the development and delivery of enterprise-grade mobile solutions for Android, iOS and Web.<br><br>Experienced in architecting production-ready apps with real-time GPS tracking, workflow systems, media handling, push notifications, AWS integrations, and performance optimization. Strong believer in clean architecture, maintainable code, and collaborative development practices.<br><br>Passionate about leveraging AI-assisted development and prompt engineering to accelerate productivity, debugging, and documentation. Quick learner, problem solver, and team-focused developer who thrives in fast-paced environments.
 
